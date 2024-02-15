@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321336513754",
+    "project_id": "wisata-bali-c0bb6",
+    "storage_bucket": "wisata-bali-c0bb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321336513754:android:6a6722a5150dc7b499c1e3",
+        "android_client_info": {
+          "package_name": "com.example.project_berlian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321336513754-4a4o018p7ctq8bsa1jrv2sa797d54fdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNr1J-ATBhK4SB__JX0y_Owi7hm2UFB-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321336513754-4a4o018p7ctq8bsa1jrv2sa797d54fdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
