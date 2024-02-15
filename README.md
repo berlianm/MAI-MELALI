@@ -1,5 +1,16 @@
-# MAI-MELALI
+# project_berlian
 
-## Mobile Apps
+A new Flutter project.
 
-To satisfy the information needs of tourists about Bali island beaches, we created and developed the "Mai Melali" application which provides complete information about Bali island beaches, locations, facilities, entrance fees, and activities or events carried out on these beaches.
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
